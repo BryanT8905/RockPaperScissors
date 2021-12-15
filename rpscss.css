@@ -1,0 +1,42 @@
+
+
+
+body {
+	background-color: #091426;
+	color: white;
+	text-align: center;
+}
+
+#gamepoints {
+	display: flex;
+	justify-content: center;
+	
+}
+#pscore {
+
+	padding-right: 10px;
+	
+}
+#cscore {
+	padding-right: 10px;
+}
+
+#playerpoints{
+	padding-right: 50px;
+	display: inline-flex;
+	justify-content: center;
+}
+
+
+#para1{
+	font-size: 20px;
+}
+#para2{
+	color: #32CD32;
+	font-size: 25px;
+}
+
+.gamebtns{
+	background-color: #c92306;
+	font-weight: bold;
+}
